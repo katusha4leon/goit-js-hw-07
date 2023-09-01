@@ -14,8 +14,7 @@ function addMarkup(elements) {
 		            src="${preview}"
 		            alt="${description}"
                     data-source = "${original}"
-		            width="350"
-		            height="auto">
+		            width="350">
 	        </a>
         </li>`).join("");
 }
